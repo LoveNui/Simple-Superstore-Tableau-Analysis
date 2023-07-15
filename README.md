@@ -1,6 +1,6 @@
-# MacuHealth-table-analysis
+# Simpe Superstore Tableau Analysis
 
-MacuHealth is the only nutritional vision supplement containing all three macular carotenoids. This project is dashboard to show MacuHealth data using Tableau.
+Simple Superstore is dataset of sales in U.S. This project is a dashboard to show data using Tableau
 
 ## Example Data
 | Category | City | Segment | State/Province | Sub-Category | KPI Selector | Profit | Quantity | Sales | Total Profit | Total Quantity | Total Sales |
